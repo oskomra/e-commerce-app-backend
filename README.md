@@ -11,7 +11,7 @@ This is the backend API for a full-stack e-commerce web application, built with 
 
 - RESTful API for e-commerce operations
 - JWT-based authentication and authorization
-- User roles: Admin & Customer
+- User roles: Admin & User
 - CRUD operations for:
   - Products
   - Categories
@@ -32,5 +32,19 @@ This is the backend API for a full-stack e-commerce web application, built with 
 | Security       | Spring Security + JWT |
 | Build Tool     | Maven             |
 | Deployment     | Railway          |
+
+---
+
+## User Roles and Admin Access
+
+- By default, all newly registered users are assigned the **user** role.
+- For demo purposes, the application includes **one pre-created admin user** with elevated privileges.
+
+### Admin Credentials
+
+- **Email:** admin@gmail.com  
+- **Password:** admin123
+
+You can use these credentials to log in as an admin and access admin-specific features such as managing products and orders.
 
 ---
