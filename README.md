@@ -17,6 +17,7 @@ This is the backend API for a full-stack e-commerce web application, built with 
   - Categories
   - Orders
 - Order management and history
+- Image upload and storage via Cloudinary
 - Integration with SQL database (PostgreSQL)
 
 ---
