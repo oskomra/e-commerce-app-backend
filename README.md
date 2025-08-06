@@ -30,6 +30,6 @@ This is the backend API for a full-stack e-commerce web application, built with 
 | Database       | PostgreSQL        |
 | Security       | Spring Security + JWT |
 | Build Tool     | Maven             |
-| Deployment     | Railwway          |
+| Deployment     | Railway          |
 
 ---
